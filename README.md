@@ -4,13 +4,6 @@ AcademiQ is a full-stack AI-powered academic chatbot built as a Final Year Proje
 
 ---
 
-## 🌐 Live Demo
-
-- **Frontend:** https://your-app.vercel.app
-- **Backend:** https://your-app.onrender.com
-
----
-
 ## ✨ Features
 
 - 🤖 **AI-Powered Q&A** — Powered by Llama 3.3 70B via Groq for fast, accurate academic answers
@@ -91,7 +84,7 @@ academic-chat-bot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/academiq.git
+git clone https://github.com/ShivamAsthana07/academiq.git
 cd academiq
 ```
 
@@ -203,7 +196,7 @@ Visit [http://localhost:5173](http://localhost:5173)
 ## 👨‍💻 Author
 
 **Shivam**
-Final Year Project — 2024–25
+Final Year Project — 2024–26
 
 ---
 
